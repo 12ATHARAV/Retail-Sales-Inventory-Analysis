@@ -9,7 +9,7 @@ This project involves the design and analysis of a comprehensive **Retail Manage
 - **Concepts:** Relational Database Design, Joins, Aggregations, View Creation, and Business KPI Reporting.
 
 ## 📊 Database Schema
-The database consists of a relational structure with the following entities:
+The database consists of a relational structure with the following entities
 * **Sales:** Orders, Order Items, Customers, and Stores.
 * **Inventory:** Products, Categories, Brands, and Stocks.
 * **Human Resources:** Staffs and Management hierarchy.
