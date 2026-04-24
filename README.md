@@ -1,6 +1,6 @@
 # 🛒 Retail Sales & Inventory Analysis (SQL)
 
-## 📌 Project Overvie
+## 📌 Project Overview
 This project involves the design and analysis of a comprehensive **Retail Management Database**. It covers the entire data journey from schema creation and data importation to generating complex business insights. The analysis focuses on sales performance, inventory health, and staff productivity for a multi-store retail chain.
 
 ## 🛠️ Tech Stack
