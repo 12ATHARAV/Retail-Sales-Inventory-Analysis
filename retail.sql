@@ -1,5 +1,5 @@
 create table customers(
-	customer_id integer primary key
+	customer_id integer primary key,
 	first_name varchar(50),
 	last_name varchar(50),
 	phone varchar(20),
