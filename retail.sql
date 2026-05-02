@@ -8,7 +8,7 @@ create table customers(
 	city varchar(50),
 	state varchar(100),
 	zip_code varchar(50)
-);
+)
 
 
 CREATE TABLE stores (
